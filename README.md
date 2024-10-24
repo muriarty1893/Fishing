@@ -79,3 +79,6 @@ Infrastructure Costs: Depending on the project’s scale, server and data storag
 Marketing Costs: Allocating funds for marketing is crucial to attract users to your platform.
 
 Miscellaneous Costs: Including a contingency fund helps mitigate unforeseen expenses that may arise during the project lifecycle.
+
+# Kaggle 
+https://www.kaggle.com/code/theaideen/fork-of-hakan-and-murat-s-akbank-bootcamp-project
