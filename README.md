@@ -35,8 +35,7 @@ Email: ekerinfo@gmail.com
 LinkedIn: www.linkedin.com/in/aydinhakan1
 Email: hakanaydincareer@gmail.com
 Business Administration (BBA)
-Estimated Costs
-Personnel Costs: $83,000
+
 
 # BUDGET
 Project Manager: $15,000
@@ -64,6 +63,8 @@ Miscellaneous Costs: $13,800
 
 Contingency Fund: $11,800
 Training & Workshops: $4,000
+Estimated Costs
+Personnel Costs: $83,000
 Total Estimated Budget: $133,800
 
 # License
