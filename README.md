@@ -23,7 +23,8 @@ Git: Version control for collaborative development.
 Cloud Storage: For resume uploads and data storage.
 API Integrations: To link with third-party job boards and platforms.
 Large Language Model (LLM): Enhanced with a bigger model for improved NLP functionalities.
-Project Contributors
+# Project Contributors
+
 # Hakan Aydın
 
 LinkedIn: www.linkedin.com/in/aydinhakan1
@@ -34,8 +35,6 @@ Business Administration (BBA)
 
 LinkedIn: www.linkedin.com/in/murat-eker
 Email: ekerinfo@gmail.com
-
-
 
 
 # BUDGET
