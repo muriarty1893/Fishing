@@ -33,6 +33,7 @@ Email: ekerinfo@gmail.com
 # Hakan Aydın
 
 LinkedIn: www.linkedin.com/in/aydinhakan1
+Email: hakanaydincareer@gmail.com
 Business Administration (BBA)
 Estimated Costs
 Personnel Costs: $83,000
