@@ -24,16 +24,18 @@ Cloud Storage: For resume uploads and data storage.
 API Integrations: To link with third-party job boards and platforms.
 Large Language Model (LLM): Enhanced with a bigger model for improved NLP functionalities.
 Project Contributors
-# Murat Eker
-
-LinkedIn: www.linkedin.com/in/murat-eker
-Email: ekerinfo@gmail.com
-
 # Hakan Aydın
 
 LinkedIn: www.linkedin.com/in/aydinhakan1
 Email: hakanaydincareer@gmail.com
 Business Administration (BBA)
+
+# Murat Eker
+
+LinkedIn: www.linkedin.com/in/murat-eker
+Email: ekerinfo@gmail.com
+
+
 
 
 # BUDGET
