@@ -10,7 +10,6 @@ AI Job Navigator is an AI-powered platform designed to assist job seekers in mat
 # Project Repository
 GitHub Repo: AI Job Navigator
 
-Contributors should ask to be added and work on their own branches. Pull requests (PRs) can be made for merging after review.
 
 # Key Features
 AI-Powered Resume Evaluation: Upload resumes (PDF format) and receive career suggestions based on skills, industries, and global trends.
@@ -67,5 +66,3 @@ Estimated Costs
 Personnel Costs: $83,000
 Total Estimated Budget: $133,800
 
-# License
-This project is open source, and we welcome contributors to improve and expand its functionalities.
