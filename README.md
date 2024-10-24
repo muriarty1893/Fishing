@@ -35,7 +35,7 @@ Business Administration (BBA)
 
 LinkedIn: www.linkedin.com/in/murat-eker
 Email: ekerinfo@gmail.com
-Computer Engineering Student
+Computer Engineering 
 
 
 # BUDGET
